@@ -30,9 +30,7 @@ distributed <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/
   <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/react-original.svg" alt="React-icon"width="50" height="50" title="React">
   <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/javascript-plain.svg" alt="JS-icon" width="50" height="50" title="Javascript">
   <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/tailwindcss-original.svg" alt="Tailwind-icon" width="50" height="50" title="TailwindCSS">
- <hr>
- <img src="https://github-readme-stats.vercel.app/api?username=Horizont2wb&show_icons=true" />
-</picture>
+
 </div>
 <hr>
  </br>
