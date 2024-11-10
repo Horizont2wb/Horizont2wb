@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 <div align="center">
 <h1> Hey, my name is Willy</h1>
 
