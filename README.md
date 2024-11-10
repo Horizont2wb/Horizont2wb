@@ -11,7 +11,7 @@ distributed <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/eu.sv
  </br>
  
 Skills:
-<div class="container">
+<div class="container" style="width:800px; margin:0 auto;">
   <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/django-plain.svg" alt="Django-icon" width="25" height="25" title="Django">
   <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/nodejs-line.svg " alt="Node-icon" width="25" height="25" title="NodeJS">
   <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/react-original.svg" alt="React-icon"width="25" height="25" title="React">
