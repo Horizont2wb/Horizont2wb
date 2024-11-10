@@ -4,12 +4,12 @@
  <h2>Backend Developer</h2>
 
 ![Backend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+<hr>
 Willy, 27 </br>
 made in <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/venezuela%20flag.svg" alt="Venezuela Flag" width="25" height="25" title="Venezuela"> </br>
 compiled in <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/de.svg" alt="Germany Flag" width="25" height="25" title="Germany"> </br>
 distributed <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/eu.svg" alt="European Flag" width="25" height="25" title="Europe">  </br>
-
+<hr>
  </br>
  
 Skills:
@@ -20,7 +20,7 @@ Skills:
   <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/javascript-plain.svg" alt="JS-icon" width="25" height="25" title="Javascript">
   <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/tailwindcss-original.svg" alt="Tailwind-icon" width="25" height="25" title="TailwindCSS">
 </div>
-
+<hr>
  </br>
  </br>
   
