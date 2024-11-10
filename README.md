@@ -37,15 +37,15 @@ distributed <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/
 <details align="center-left">
 
 <summary>
-sample size of Projects that i've worked on
+Sample size of Projects that i've worked on
 
 </summary>
 
-<li> Inventory Management System </li>
-<li> Webscraper</li>
-<li> Emergency Protocol Clone </li>
-<li> BMI Calculator </li>
-<li> Data Traffic Websites, which uses an API to fetch Data</li>
+- Inventory Management System <br>
+- Webscraper<br>
+- Emergency Protocol Clone<br>
+- BMI Calculator for Men and Women <br>
+- Data Traffic Websites, which uses an API to fetch Data <br>
 
 </details>
 
