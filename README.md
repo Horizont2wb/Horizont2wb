@@ -1,8 +1,6 @@
 # Hey, my name is Willy.
 ## Backend Developer
 
-![Backend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 My name is Willy, 27
 
 Skills: 
