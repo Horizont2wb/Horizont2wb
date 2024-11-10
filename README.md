@@ -40,12 +40,11 @@ distributed <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/
 Sample size of Projects that i've worked on
 
 </summary>
-
-- Inventory Management System <br>
-- Webscraper<br>
-- Emergency Protocol Clone<br>
-- BMI Calculator for Men and Women <br>
-- Data Traffic Websites, which uses an API to fetch Data <br>
+Inventory Management System <br>
+Webscraper<br>
+Emergency Protocol Clone<br>
+BMI Calculator for Men and Women <br>
+Data Traffic Websites, which uses an API to fetch Data <br>
 
 </details>
 
