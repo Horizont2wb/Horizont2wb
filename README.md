@@ -15,9 +15,7 @@ Skills:
   <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/tailwindcss-original.svg" alt="Tailwind-icon" width="25" height="25" title="TailwindCSS">
 </div>
 
-
-![Horizont2wb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Horizont2wb&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
+![Horizont2wb's Stats](https://github-readme-stats.vercel.app/api?username=Horizont2wb&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 - 🔭 I’m currently working on this page. 
 
