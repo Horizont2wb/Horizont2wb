@@ -1,7 +1,8 @@
 <div align="center">
-# Hey, my name is Willy.
-## Backend Developer
-
+<h1> Hey, my name is Willy</h1>
+ <hr>
+ <h2>Backend Developer</h2>
+<hr>
 ![Backend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Willy, 27 </br>
