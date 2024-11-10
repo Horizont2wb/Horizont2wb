@@ -4,7 +4,7 @@
 
  <h2>Backend Developer</h2>
 
-![Backend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Backend Developer](https://github.com/Horizont2wb/Horizont2wb/blob/main/chess_samurai2.jpg)
 
 <hr>
 
