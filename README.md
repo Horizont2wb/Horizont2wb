@@ -1,10 +1,14 @@
 # Hey, my name is Willy.
 ## Backend Developer
 
-My name is Willy, 27
+![Backend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Skills: 
+Willy, 27
+made in <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/venezuela%20flag.svg" alt="Venezuela Flag" width="25" height="25" title="Venezuela">
+compiled in <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/de.svg" alt="Germany Flag" width="25" height="25" title="Germany">
+distributed <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/eu.svg" alt="European Flag" width="25" height="25" title="Europe">
 
+Skills:
 <div class="container">
   <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/django-plain.svg" alt="Django-icon" width="25" height="25" title="Django">
   <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/nodejs-line.svg " alt="Node-icon" width="25" height="25" title="NodeJS">
