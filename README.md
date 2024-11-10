@@ -40,7 +40,7 @@ distributed <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/
 Sample size of Projects that i've worked on
 
 </summary>
-<p>Inventory Management System <i> most recent Project</i> <br>
+<p>Inventory Management System - most recent Project <br>
 Webscraper<br>
 Emergency Protocol Clone<br>
 BMI Calculator for Men and Women <br>
