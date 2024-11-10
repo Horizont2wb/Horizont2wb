@@ -31,3 +31,6 @@ distributed <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/eu.sv
 </div>
 
 
+img {
+  border: 5px solid #555;
+}
