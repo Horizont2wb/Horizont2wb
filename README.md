@@ -8,7 +8,7 @@ My name is Willy, 27
 Skills: 
 
 
-  <li> <img href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt_text="react icon" >Django </li>
+  <li> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="Girl in a jacket" width="500" height="600"> Django </li>
   <li> Node </li>
   <li> React </li>
   <li> JS </li>
