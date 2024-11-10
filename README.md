@@ -12,7 +12,7 @@ compiled in <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/de.sv
 distributed <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/eu.svg" alt="European Flag" width="15" height="15" title="Europe">  </br>
  </br>
  
-<h3>Skills</h3>:
+<h3>Skills</h3>
 <div class="container">
   <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/django-plain.svg" alt="Django-icon" width="25" height="25" title="Django">
   <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/nodejs-line.svg " alt="Node-icon" width="25" height="25" title="NodeJS">
@@ -22,7 +22,7 @@ distributed <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/eu.sv
 </div>
 <hr>
  </br>
- </br>
+
   
 
 ![Horizont2wb's Stats](https://github-readme-stats.vercel.app/api?username=Horizont2wb&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
