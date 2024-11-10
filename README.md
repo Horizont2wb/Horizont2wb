@@ -17,6 +17,10 @@ Willy, 27 </br>
 made in <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/venezuela%20flag.svg" alt="Venezuela Flag" width="15" height="15" title="Venezuela"> </br>
 compiled in <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/de.svg" alt="Germany Flag" width="15" height="15" title="Germany"> </br>
 distributed <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/eu.svg" alt="European Flag" width="15" height="15" title="Europe">  </br>
+<img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/love.svg" alt="Love Icon" width="15" height="15" title="love"> 
+<img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/chess_board.svg" alt="chessboard Icon" width="15" height="15" title="chessboard"> 
+
+
 </br>
 </details>
 
