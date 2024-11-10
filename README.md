@@ -36,10 +36,14 @@ distributed <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/
  </br>
 
 <details align="center-left">
+<summary> <h3>Stats:</h3> </summary>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=Horizont2wb&show_icons=true" /> </p>
+</details>
 
+
+<details align="center-left">
 <summary>
 Sample size of Projects that i've worked on
-
 </summary>
 <p>Inventory Management System - most recent Project <br>
 Webscraper<br>
