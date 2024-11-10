@@ -5,7 +5,17 @@
 
 My name is Willy, 27
 
-Skills: Django / Typescript / Node / REACT / JS / HTML / CSS / Tailwind 
+Skills: 
+
+<li>
+  <ul>Django </ul>
+  <ul>Node </ul>
+  <ul>React </ul>
+  <ul>JS </ul>
+  <ul>Tailwind </ul>
+  <ul>HTML </ul>
+  <ul>CSS </ul>
+</li>
 
 - 🔭 I’m currently working on this page. 
 
