@@ -31,7 +31,7 @@ distributed <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/
   <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/javascript-plain.svg" alt="JS-icon" width="50" height="50" title="Javascript">
   <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/tailwindcss-original.svg" alt="Tailwind-icon" width="50" height="50" title="TailwindCSS">
  <hr>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Horizont2wb&hide=contribs,prs)]
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Horizont2wb&show_icons=true&theme=radical)
 </div>
 <hr>
  </br>
