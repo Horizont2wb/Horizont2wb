@@ -34,8 +34,28 @@ distributed <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/eu.sv
 <hr>
  </br>
 
+<details>
 
-- 🔭 I’m currently working on this page. 
+<summary>
+Projects that i've worked on / am currently working on:
+
+</summary>
+
+<li>Inventory Management System </li>
+<li> Emergency Protocol Copy </li>
+<li> BMI Calculator </li>
+<li> Data Traffix websites, which uses an API to fetch Data</li>
+
+</details>
+
+<hr>
+
+<quote>
+Mind over Matter, if i don't Mind it doesn't Matter.
+</quote>
+
+Started using Github 10.11.24.
+currently working on this page. 
 
 </div>
 
