@@ -55,7 +55,7 @@ sample size of Projects that i've worked on
 Mind over Matter, if i don't Mind it doesn't Matter.</i> - Mark Twain
 </p>
 
-Started using Github 10.11.24.
+<i>Started using Github 10.11.24.</i>
 currently working on this page. 
 
 </div>
