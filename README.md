@@ -25,11 +25,11 @@ distributed <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/
 
 <h3>Skills</h3>
 <div class="container">
-  <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/django-plain.svg" alt="Django-icon" width="25" height="25" title="Django">
-  <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/nodejs-line.svg " alt="Node-icon" width="25" height="25" title="NodeJS">
-  <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/react-original.svg" alt="React-icon"width="25" height="25" title="React">
-  <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/javascript-plain.svg" alt="JS-icon" width="25" height="25" title="Javascript">
-  <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/tailwindcss-original.svg" alt="Tailwind-icon" width="25" height="25" title="TailwindCSS">
+  <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/django-plain.svg" alt="Django-icon" width="50" height="50" title="Django">
+  <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/nodejs-line.svg " alt="Node-icon" width="50" height="50" title="NodeJS">
+  <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/react-original.svg" alt="React-icon"width="50" height="50" title="React">
+  <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/javascript-plain.svg" alt="JS-icon" width="50" height="50" title="Javascript">
+  <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/tailwindcss-original.svg" alt="Tailwind-icon" width="50" height="50" title="TailwindCSS">
 </div>
 <hr>
  </br>
