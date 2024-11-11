@@ -26,7 +26,8 @@ compiled in <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/
 <div class="container">
   <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/django-plain.svg" alt="Django-icon" width="50" height="50" title="Django">
   <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/nodejs-line.svg " alt="Node-icon" width="50" height="50" title="NodeJS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="NGINX-icon" width="50" height="50" title="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux-icon" width="50" height="50" title="Linux Pinguin"/>
   <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/react-original.svg" alt="React-icon"width="50" height="50" title="React">
   <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/javascript-plain.svg" alt="JS-icon" width="50" height="50" title="Javascript">
   <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/tailwindcss-original.svg" alt="Tailwind-icon" width="50" height="50" title="TailwindCSS">
