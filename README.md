@@ -39,6 +39,16 @@ compiled in <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/
 
 <details align="center-left">
 <summary>
+Currently working on
+</summary>
+<p> fully customized Ecommerce Shop </p>
+
+</details>
+
+<hr> 
+
+<details align="center-left">
+<summary>
 Sample size of Projects that i've worked on
 </summary>
 <p>Inventory Management System - most recent Project <br>
