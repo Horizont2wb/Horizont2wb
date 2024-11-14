@@ -41,7 +41,7 @@ compiled in <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/
 <summary>
 Currently working on
 </summary>
-<p> fully customized Ecommerce Shop </p>
+fully customized Ecommerce Shop
 
 </details>
 
