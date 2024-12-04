@@ -51,7 +51,8 @@ fully customized E-Commerce Shop with integrated payment method(s)<br>
 <summary>
 Sample size of Projects that i've worked on
 </summary>
-<p>Inventory Management System - most recent Project <br>
+<p> 1. Inventory Management System - (Typescript, React, Bootstrap, JS, Node.js, Python, HTML, CSS) <br>
+  2. Inventory Management System - (Django, JS, HTML, CSS, AJAX) <br>
 Webscraper<br>
 Emergency Protocol Clone<br>
 BMI Calculator for Men and Women <br>
