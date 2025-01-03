@@ -6,6 +6,7 @@
 
 ![Backend Developer](https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/chess_samurai2.jpg)
 
+
 <hr>
 
 <details>
