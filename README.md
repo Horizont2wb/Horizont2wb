@@ -17,7 +17,6 @@ made in <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/vene
 compiled in <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/de.svg" alt="Germany Flag" width="15" height="15" title="Germany"> </br>
 <img src="https://github.com/Horizont2wb/Horizont2wb/blob/main/pics/love.svg" alt="Love Icon" width="15" height="15" title="love"> Chess!
 
-
 </br>
 </details>
 
